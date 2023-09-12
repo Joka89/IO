@@ -1,0 +1,12 @@
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\bin\Debug\net7.0\TrojkatLicz.deps.json
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\bin\Debug\net7.0\TrojkatLicz.dll
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\bin\Debug\net7.0\TrojkatLicz.pdb
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\TrojkatLicz.csproj.AssemblyReference.cache
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\TrojkatLicz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\TrojkatLicz.AssemblyInfoInputs.cache
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\TrojkatLicz.AssemblyInfo.cs
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\TrojkatLicz.csproj.CoreCompileInputs.cache
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\TrojkatLicz.dll
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\refint\TrojkatLicz.dll
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\TrojkatLicz.pdb
+C:\Users\wjablonska\Desktop\drk\IO\unit-testing-trojkat\TrojkatLicz\obj\Debug\net7.0\ref\TrojkatLicz.dll
